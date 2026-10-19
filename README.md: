@@ -1,0 +1,4 @@
+## Excel Workbook
+
+The Excel workbook is saved in `excel/duka_branch_summary.xlsx`. It contains the sales data, branch revenue summary using SUMIFS, region lookup using XLOOKUP, and revenue summaries by branch and sales channel. A native Excel PivotTable is included after completing the PivotTable instructions in the workbook.
+
